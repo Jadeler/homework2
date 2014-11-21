@@ -81,11 +81,13 @@ header{
           width:80px;
           background-color: #fff;
           border:1px solid #686868;
+          padding-top: 0;
 }
 .new-site-nav ul li ul li{
           float:none;
           padding:0;
           height: 21px;
+          line-height: 21px;
 }
 .new-site-nav ul li ul li a{
           padding:2px;
